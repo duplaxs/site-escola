@@ -1,5 +1,5 @@
 header{
-    background-color: #353d58;
+    background-color: #ca0202;
     color:white;
     display: flex;
     justify-content: space-around;
@@ -15,4 +15,11 @@ header{
     margin: 0 16px;
     padding: 24px 0;
     font-size: 24px;
+}
+.jogo-volei{
+    width: 20%;
+}
+.escola{
+    background-image:linear-gradient(#ca0202,#854904
+    )
 }
